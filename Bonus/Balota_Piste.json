@@ -1,0 +1,116 @@
+{
+    "Objects": [
+        {
+            "name": "bldr_rds_runway_dirt_3",
+            "pos": [
+                4927.30224609375,
+                9.5,
+                2560.780517578125
+            ],
+            "ypr": [
+                -39.999996185302737,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "bldr_rds_runway_dirt_2",
+            "pos": [
+                4978.7158203125,
+                9.5,
+                2499.49462890625
+            ],
+            "ypr": [
+                139.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "bldr_rds_runway_dirt_2",
+            "pos": [
+                5030.14013671875,
+                9.5,
+                2438.169921875
+            ],
+            "ypr": [
+                139.99998474121095,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "bldr_rds_runway_dirt_2",
+            "pos": [
+                5081.580078125,
+                9.5,
+                2376.919921875
+            ],
+            "ypr": [
+                139.99998474121095,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "bldr_rds_runway_dirt_2",
+            "pos": [
+                5132.75,
+                9.5,
+                2315.949951171875
+            ],
+            "ypr": [
+                139.99998474121095,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "bldr_rds_runway_dirt_3",
+            "pos": [
+                5183.990234375,
+                9.5,
+                2254.9599609375
+            ],
+            "ypr": [
+                139.99998474121095,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "bldr_rds_runway_end33",
+            "pos": [
+                5229.0244140625,
+                9.5,
+                2201.3330078125
+            ],
+            "ypr": [
+                139.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
